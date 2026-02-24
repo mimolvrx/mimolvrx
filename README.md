@@ -1,11 +1,5 @@
 # 👩🏻‍💻 Yasmim Oliveira
 
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mimolvrx&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mimolvrx&layout=compact&theme=dracula)
-
 ## 📌 Sobre mim
 Sou estudante de Técnico em Informática para Internet, apaixonada por tecnologia, desenvolvimento web e soluções criativas. Estou em constante aprendizado, desenvolvendo minha base em lógica de programação e criação de projetos para a web.
 
