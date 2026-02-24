@@ -16,3 +16,8 @@ Crescer profissionalmente na área de tecnologia, aprimorando minhas habilidades
 
 ## 🚀 Sobre
 Este perfil reúne atividades acadêmicas, exercícios e projetos que representam minha evolução como estudante e futura profissional da área de TI.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mimolvrx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimolvrx&layout=compact&theme=dracula" />
+</p>
