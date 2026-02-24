@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👩🏻‍💻 Yasmim Oliveira
 
-<!--
-**mimolvrx/mimolvrx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 Sobre mim
+Sou estudante de Técnico em Informática para Internet, apaixonada por tecnologia, desenvolvimento web e soluções criativas. Estou em constante aprendizado, desenvolvendo minha base em lógica de programação e criação de projetos para a web.
 
-Here are some ideas to get you started:
+## 🎓 Formação
+- Técnico em Informática para Internet — Senac Lapa Tito (em andamento)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tecnologias em aprendizado
+- Lógica de Programação  
+- HTML5  
+- CSS3  
+
+## 🎯 Objetivo
+Crescer profissionalmente na área de tecnologia, aprimorando minhas habilidades em desenvolvimento web e criando soluções funcionais, acessíveis e bem estruturadas.
+
+## 🚀 Sobre
+Este perfil reúne atividades acadêmicas, exercícios e projetos que representam minha evolução como estudante e futura profissional da área de TI.
