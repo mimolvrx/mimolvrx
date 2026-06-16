@@ -57,6 +57,14 @@ Sou estudante de Técnico em Informática para Internet no Senac São Paulo, apa
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
     />
+    <img 
+        align="left" 
+        alt="VScode"
+        title="VScode"
+        width="30px"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+    />
 <p/>
 <br/>
 <br/>
