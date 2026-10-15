@@ -4,16 +4,18 @@
 
 </div>
 
-## 👩🏻‍💻Yasmim Oliveira
+<div align="center">
 
-**`Desenvolvedora Front-End`**
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A200FF&center=true&vCenter=true&width=600&lines=Yasmim+Oliveira" alt="Yasmim Oliveira" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1&pause=999999&color=00AAFF&center=true&vCenter=true&width=600&lines=Desenvolvimento+Web+%E2%80%A2+Front-end+%E2%80%A2+Back-end" alt="Desenvolvimento Web • Front-end • Back-end" />
+
+</div>
 
 Sou estudante de Técnico em Informática para Internet no Senac São Paulo, apaixonada por tecnologia, desenvolvimento web e soluções criativas. Atualmente, possuo conhecimentos em Front-End e estou expandindo minhas habilidades em Back-End, buscando me tornar uma desenvolvedora cada vez mais completa. Estou em constante aprendizado, criando projetos práticos e fortalecendo minha base em programação, desenvolvimento web e boas práticas de desenvolvimento.
 
 
----
-
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 <p align="left"> 
     <img 
         align="left" 
