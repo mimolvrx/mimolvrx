@@ -1,3 +1,9 @@
+<div align="center">
+
+  <img src="assets/readmeGitHub.png" alt="Capa do perfil" width="100%">
+
+</div>
+
 ## 👩🏻‍💻Yasmim Oliveira
 
 **`Desenvolvedora Front-End`**
