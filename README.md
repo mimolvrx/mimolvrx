@@ -52,3 +52,9 @@ Sou estudante de Técnico em Informática para Internet no Senac São Paulo, apa
 <img data-importer="snake" src="https://raw.githubusercontent.com/mimolvrx/mimolvrx/snake-output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1000&color=00AAFF&center=true&vCenter=true&width=1100&lines=Tecnologia+%C3%A9+transformar+ideias+em+possibilidades+e+o+imposs%C3%ADvel+em+inova%C3%A7%C3%A3o." alt="Tecnologia é transformar ideias em possibilidades e o impossível em inovação." />
+  
+</div>
