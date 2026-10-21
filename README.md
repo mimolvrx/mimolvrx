@@ -12,7 +12,7 @@
 
 </div>
 
-Sou estudante de Técnico em Informática para Internet no Senac São Paulo, apaixonada por tecnologia, desenvolvimento web e soluções criativas. Atualmente, possuo conhecimentos em Front-End e estou expandindo minhas habilidades em Back-End, buscando me tornar uma desenvolvedora cada vez mais completa. Estou em constante aprendizado, criando projetos práticos e fortalecendo minha base em programação, desenvolvimento web e boas práticas de desenvolvimento.
+Sou estudante de Técnico em Informática para Internet no Senac São Paulo, apaixonada por tecnologia, desenvolvimento de software e soluções criativas. Já concluí minha formação em Front-End e Back-End e, atualmente, estou iniciando meus estudos em desenvolvimento mobile, ampliando meus conhecimentos e explorando novas possibilidades na área de tecnologia. Estou em constante evolução, desenvolvendo projetos práticos e aprimorando minhas habilidades em programação, buscando criar soluções funcionais, criativas e cada vez mais completas.
 
 <h3 data-importer="text" align="center">Linguagens e Tecnologias</h3>
 
